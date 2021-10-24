@@ -1,0 +1,4 @@
+﻿  Hungarina Algorithm.cpp
+C:\Users\Ss3mi\source\repos\Hungarina Algorithm\Hungarina Algorithm\Hungarina Algorithm.cpp(448,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ss3mi\source\repos\Hungarina Algorithm\Hungarina Algorithm\Hungarina Algorithm.cpp(428): warning C4715: 'StepFour': not all control paths return a value
+  Hungarina Algorithm.vcxproj -> C:\Users\Ss3mi\source\repos\Hungarina Algorithm\Debug\Hungarina Algorithm.exe
